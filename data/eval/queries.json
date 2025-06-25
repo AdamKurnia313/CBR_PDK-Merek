@@ -1,0 +1,42 @@
+[
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 5 september 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata, terdapat pertentangan putusan a quo dengan putusan nomor 140/pdt.g/1995/pn jkt.pst juncto putusan nomor 3101 k/pdt/1999 dan telah ditemukan bukti baru (novum) berupa: 1. pk-1 : fotokopi putusan pengadilan negeri jakar",
+    "ground_truth": "case_003"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 22 agustus 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: 1. menerima permohonan peninjauan kembali dan memori peninjauan kembali pemohon peninjauan kembali (semula penggugat/pemohon kasasi) untuk seluruhnya",
+    "ground_truth": "case_055"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 15 februari 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan dalam putusan a quo terdapat suatu kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian memohon putusan sebagai berikut: 1. menerima seluruh dalil-dalil pemohon peninjauan kembali untuk seluruhnya; 2. membatalkan putusan nomor 1082 k/pdt.sus-hki/2022, tertanggal 26 juli 2022; 3. menguatka",
+    "ground_truth": "case_047"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 15 november 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata; kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: 1. mengabulkan permohonan peninjauan kembali dari pemohon peninjauan kembali linda anggreaningsih tersebut; 2. membatalkan putusan pengadilan niaga ",
+    "ground_truth": "case_014"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 10 november 2022 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat adanya kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian memohon putusan sebagai berikut: - menerima permohon peninjauan kembali dari pemohon peninjauan kembali/termohon kasasi/dahulu tergugat dalam konvensi/penggugat dalam rekonvensi; selanjutnya menga",
+    "ground_truth": "case_029"
+  },
+  {
+    "query": "menimbang bahwa dalam tingkat kasasi, putusan pengadilan niaga pada pengadilan negeri jakarta pusat telah dikuatkan dengan putusan mahkamah agung nomor 705 k/pdt.sus-hki/2023 tanggal 26 juni 2023, dengan amar sebagai berikut: 1. menolak permohonan kasasi dari pemohon kasasi: pt ayam geprek benny sujono disingkat dengan ayam geprek bensu, tersebut; mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung",
+    "ground_truth": "case_023"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 22 september 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau kekeliruan yang nyata serta telah ditemukan bukti baru (novum) berupa: 1. bukti artikel online dengan judul “shopfair, pekan raya e-commerce indonesia” yang diterbitkan oleh kompas.com pada tanggal 6 juli 2012 pukul 14:53 wib (https://megap",
+    "ground_truth": "case_033"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 11 desember 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat suatu kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: - mengabulkan permohonan peninjauan kembali dari pemohon peninjauan kembali; - membatalkan putusan pengadilan niaga pada pengadilan negeri jak",
+    "ground_truth": "case_021"
+  },
+  {
+    "query": "menimbang bahwa alasan-alasan kasasi tersebut tidak dapat dibenarkan oleh karena setelah meneliti memori kasasi yang diterima tanggal 17 april 2023 dihubungkan dengan pertimbangan judex facti dalam hal ini pengadilan niaga pada pengadilan negeri jakarta pusat tidak salah menerapkan hukum, dengan pertimbangan sebagai berikut: mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia dar",
+    "ground_truth": "case_057"
+  },
+  {
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia dari 12 hal. put. nomor 60 pk/pdt.sus-hki/2023 diterima tanggal 7 juni 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat adanya kekhilafan dan kekeliruan yang nyata serta k",
+    "ground_truth": "case_048"
+  }
+]

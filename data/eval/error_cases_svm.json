@@ -1,0 +1,50 @@
+[
+  {
+    "query_id": 1,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 5 september 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata, terdapat pertentangan putusan a quo dengan putusan nomor 140/pdt.g/1995/pn jkt.pst juncto putusan nomor 3101 k/pdt/1999 dan telah ditemukan bukti baru (novum) berupa: 1. pk-1 : fotokopi putusan pengadilan negeri jakar",
+    "predicted": [
+      "case_047"
+    ],
+    "ground_truth": "case_003"
+  },
+  {
+    "query_id": 2,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 22 agustus 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: 1. menerima permohonan peninjauan kembali dan memori peninjauan kembali pemohon peninjauan kembali (semula penggugat/pemohon kasasi) untuk seluruhnya",
+    "predicted": [
+      "case_018"
+    ],
+    "ground_truth": "case_055"
+  },
+  {
+    "query_id": 4,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 15 november 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata; kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: 1. mengabulkan permohonan peninjauan kembali dari pemohon peninjauan kembali linda anggreaningsih tersebut; 2. membatalkan putusan pengadilan niaga ",
+    "predicted": [
+      "case_047"
+    ],
+    "ground_truth": "case_014"
+  },
+  {
+    "query_id": 6,
+    "query": "menimbang bahwa dalam tingkat kasasi, putusan pengadilan niaga pada pengadilan negeri jakarta pusat telah dikuatkan dengan putusan mahkamah agung nomor 705 k/pdt.sus-hki/2023 tanggal 26 juni 2023, dengan amar sebagai berikut: 1. menolak permohonan kasasi dari pemohon kasasi: pt ayam geprek benny sujono disingkat dengan ayam geprek bensu, tersebut; mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung",
+    "predicted": [
+      "case_008"
+    ],
+    "ground_truth": "case_023"
+  },
+  {
+    "query_id": 8,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 11 desember 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat suatu kekhilafan hakim atau suatu kekeliruan yang nyata, kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: - mengabulkan permohonan peninjauan kembali dari pemohon peninjauan kembali; - membatalkan putusan pengadilan niaga pada pengadilan negeri jak",
+    "predicted": [
+      "case_047"
+    ],
+    "ground_truth": "case_021"
+  },
+  {
+    "query_id": 10,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia dari 12 hal. put. nomor 60 pk/pdt.sus-hki/2023 diterima tanggal 7 juni 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat adanya kekhilafan dan kekeliruan yang nyata serta k",
+    "predicted": [
+      "case_026"
+    ],
+    "ground_truth": "case_048"
+  }
+]

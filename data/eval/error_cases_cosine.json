@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": 1,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 5 september 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata, terdapat pertentangan putusan a quo dengan putusan nomor 140/pdt.g/1995/pn jkt.pst juncto putusan nomor 3101 k/pdt/1999 dan telah ditemukan bukti baru (novum) berupa: 1. pk-1 : fotokopi putusan pengadilan negeri jakar",
+    "predicted": [
+      "case_047",
+      "case_031",
+      "case_018",
+      "case_021",
+      "case_035"
+    ],
+    "ground_truth": "case_003"
+  },
+  {
+    "query_id": 4,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 15 november 2023 merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau suatu kekeliruan yang nyata; kemudian pemohon peninjauan kembali memohon putusan sebagai berikut: 1. mengabulkan permohonan peninjauan kembali dari pemohon peninjauan kembali linda anggreaningsih tersebut; 2. membatalkan putusan pengadilan niaga ",
+    "predicted": [
+      "case_047",
+      "case_018",
+      "case_031",
+      "case_055",
+      "case_035"
+    ],
+    "ground_truth": "case_014"
+  },
+  {
+    "query_id": 7,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 22 september 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekhilafan hakim atau kekeliruan yang nyata serta telah ditemukan bukti baru (novum) berupa: 1. bukti artikel online dengan judul “shopfair, pekan raya e-commerce indonesia” yang diterbitkan oleh kompas.com pada tanggal 6 juli 2012 pukul 14:53 wib (https://megap",
+    "predicted": [
+      "case_047",
+      "case_031",
+      "case_018",
+      "case_035",
+      "case_026"
+    ],
+    "ground_truth": "case_033"
+  },
+  {
+    "query_id": 9,
+    "query": "menimbang bahwa alasan-alasan kasasi tersebut tidak dapat dibenarkan oleh karena setelah meneliti memori kasasi yang diterima tanggal 17 april 2023 dihubungkan dengan pertimbangan judex facti dalam hal ini pengadilan niaga pada pengadilan negeri jakarta pusat tidak salah menerapkan hukum, dengan pertimbangan sebagai berikut: mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia dar",
+    "predicted": [
+      "case_050",
+      "case_005",
+      "case_006",
+      "case_023",
+      "case_011"
+    ],
+    "ground_truth": "case_057"
+  },
+  {
+    "query_id": 10,
+    "query": "menimbang bahwa berdasarkan memori peninjauan kembali yang mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia dari 12 hal. put. nomor 60 pk/pdt.sus-hki/2023 diterima tanggal 7 juni 2023 yang merupakan bagian tidak terpisahkan dari putusan ini, pemohon peninjauan kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat adanya kekhilafan dan kekeliruan yang nyata serta k",
+    "predicted": [
+      "case_034",
+      "case_026",
+      "case_031",
+      "case_055",
+      "case_050"
+    ],
+    "ground_truth": "case_048"
+  }
+]
