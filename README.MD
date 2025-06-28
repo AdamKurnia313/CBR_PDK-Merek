@@ -39,7 +39,6 @@ Putusan pengadilan merupakan sumber data penting yang dapat dimanfaatkan untuk m
 ├── logs/
 │   └── cleaning.log        # Catatan proses pembersihan dokumen
 ├── Merek_PDF/              # PDF asli hasil scraping
-├── src/                    # (jika ada) Script utama dan fungsi utilitas
 ├── casebase.ipynb          # Notebook utama
 └── README.md               # Dokumentasi ini
 ```
@@ -56,8 +55,34 @@ Proyek ini dikembangkan dengan Python 3.x dan membutuhkan pustaka berikut:
 
 Instalasi dapat dilakukan melalui:
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/AdamKurnia313/CBR_PDK-Merek
+cd CBR_PDK-Merek
+```
+### 2. Create and Activate a Virtual Environment
+```bash
+python -m venv venv
+
+# For Windows
+venv\Scripts\activate
+
+# If PowerShell policy error:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+# For macOS/Linux
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+If `requirements.txt` is still empty, you can generate it automatically:
+```bash
+pip install pipreqs
+pipreqs . --force
 ```
 
 > 📌 Catatan: Pastikan folder `Merek_PDF/` dan `data/raw/` sudah tersedia sebelum menjalankan notebook.
